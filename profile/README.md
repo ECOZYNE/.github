@@ -2,7 +2,7 @@
 
 # 🚀 PROJECT NAME
 
-![Hero Banner](./images/hero-banner.jpg)
+![Hero Banner](../../images/hero-banner.jpg)
 
 ### ✨ Transforming Ideas Into Digital Reality
 
@@ -16,7 +16,7 @@
 
 ## 📖 Tentang Project
 
-<img align="right" src="./images/coding-workspace.jpg" width="400" alt="Coding Workspace"/>
+<img align="right" src="../../images/coding-workspace.jpg" width="400" alt="Coding Workspace"/>
 
 **Project Name** adalah sebuah platform inovatif yang dirancang khusus untuk memudahkan developer dalam membangun aplikasi modern dengan cepat dan efisien. Kami fokus pada pengalaman pengguna yang luar biasa dengan performa tinggi.
 
