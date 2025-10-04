@@ -59,28 +59,6 @@ Kami menyediakan berbagai fitur canggih yang membuat development menjadi lebih m
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/yourrepo.git
-
-# Masuk ke direktori project
-cd yourrepo
-
-# Install dependencies
-npm install
-
-# Setup environment variables
-cp .env.example .env
-
-# Jalankan development server
-npm run dev
-
-# Buka browser di http://localhost:3000
-```
-
----
 
 ## 📸 Screenshots
 
@@ -107,7 +85,7 @@ npm run dev
     <td align="center" width="200">
       <img src="./images/team/member1.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50;" alt="Developer 1"/>
       <br />
-      <b>Ahmad Pratama</b>
+      <b>Muhammad Nabil Aditya Putera</b>
       <br />
       <i>Lead Developer</i>
       <br />
@@ -121,9 +99,9 @@ npm run dev
     <td align="center" width="200">
       <img src="./images/team/member2.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #2196F3;" alt="Developer 2"/>
       <br />
-      <b>Siti Nurhaliza</b>
+      <b>Ivander Justine Saavero</b>
       <br />
-      <i>Frontend Engineer</i>
+      <i>Mobile Developer</i>
       <br />
       <a href="https://github.com/sitinurhaliza">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
@@ -135,9 +113,9 @@ npm run dev
     <td align="center" width="200">
       <img src="./images/team/member3.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF9800;" alt="Developer 3"/>
       <br />
-      <b>Budi Santoso</b>
+      <b>Fasha-Ar Rafly</b>
       <br />
-      <i>Backend Engineer</i>
+      <i>Backend Developer</i>
       <br />
       <a href="https://github.com/budisantoso">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
@@ -151,9 +129,9 @@ npm run dev
     <td align="center" width="200">
       <img src="./images/team/member4.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
       <br />
-      <b>Dewi Lestari</b>
+      <b>Aditiya Arsandi Sulaeman</b>
       <br />
-      <i>UI/UX Designer</i>
+      <i>UI / UX Designer, Quality Assurance</i>
       <br />
       <a href="https://github.com/dewilestari">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
@@ -165,9 +143,9 @@ npm run dev
     <td align="center" width="200">
       <img src="./images/team/member5.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
       <br />
-      <b>Rizki Firmansyah</b>
+      <b>Andi Hardiansya Permana</b>
       <br />
-      <i>DevOps Engineer</i>
+      <i>UI / UX Designer, Quality Assurance</i>
       <br />
       <a href="https://github.com/rizkifirmansyah">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
