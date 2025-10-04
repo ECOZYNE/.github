@@ -150,62 +150,14 @@
 
 ---
 
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/yourrepo?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yourusername/yourrepo?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/yourrepo?style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Kontribusi
-
-Kami sangat terbuka untuk kontribusi dari siapa saja! Jika Anda ingin berkontribusi:
-
-1. 🍴 Fork repository ini
-2. 🌿 Buat branch untuk fitur baru (`git checkout -b feature/AmazingFeature`)
-3. 💻 Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push ke branch (`git push origin feature/AmazingFeature`)
-5. 🎉 Buat Pull Request
-
-Baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk detail lebih lanjut.
-
----
-
-## 📄 License
-
-Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
-
----
-
 ## 💬 Kontak & Support
 
 <div align="center">
 
-Ada pertanyaan? Jangan ragu untuk menghubungi kami!
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yourproject.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ecozyne.id)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecozyne@gmail.com)
 
 </div>
-
----
-
-## 💖 Support Project
-
-Jika project ini bermanfaat untuk Anda, pertimbangkan untuk:
-
-- ⭐ Star repository ini
-- 🐦 Share di social media
-- ☕ [Buy us a coffee](https://buymeacoffee.com/yourhandle)
-- 💰 [Sponsor via GitHub](https://github.com/sponsors/yourusername)
 
 ---
 
@@ -215,6 +167,6 @@ Jika project ini bermanfaat untuk Anda, pertimbangkan untuk:
 
 **[Website](https://yourwebsite.com)** • **[Documentation](https://docs.yourwebsite.com)** • **[Blog](https://blog.yourwebsite.com)**
 
-© 2025 Your Project Name. All rights reserved.
+© 2025 Ecozyne. All rights reserved.
 
 </div>
