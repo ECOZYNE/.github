@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PROJECT NAME
+# 🌿 Aplikasi ECOZYNE
 
 ![Hero Banner](https://raw.githubusercontent.com/ECOZYNE/.github/main/images/hero-banner.jpg)
 
@@ -18,42 +18,30 @@
 
 <img align="right" src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/coding-workspace.jpg" width="400" alt="Coding Workspace"/>
 
-**Project Name** adalah sebuah platform inovatif yang dirancang khusus untuk memudahkan developer dalam membangun aplikasi modern dengan cepat dan efisien. Kami fokus pada pengalaman pengguna yang luar biasa dengan performa tinggi.
+**Aplikasi Ecozyne** Aplikasi Mobile Eco Enzim adalah platform berbasis mobile yang dirancang untuk memudahkan masyarakat, khususnya masyarakat Batam, dalam memperoleh informasi dan edukasi seputar Eco Enzyme melalui artikel serta promosi kegiatan terkait. Selain menyediakan sarana edukasi, aplikasi ini dilengkapi dengan sistem penyetoran sampah, di mana komunitas dapat menyalurkan sampah ke bank sampah yang menerima dan mengolahnya. Setiap setoran akan dikonversi menjadi poin yang dapat ditukarkan dengan hadiah menarik. Keunggulan aplikasi ini adalah adanya fitur AI Pendeteksi Sampah, yang membantu pengguna mengenali jenis sampah yang sesuai untuk pembuatan Eco Enzyme maupun daur ulang, sehingga proses penyetoran menjadi lebih mudah, tepat, dan efisien
 
 ### 🎯 Kenapa Memilih Kami?
 
-- **⚡ Performa Tinggi** - Dioptimalkan untuk kecepatan maksimal dengan response time di bawah 100ms
-- **🎨 Design Modern** - UI/UX yang cantik dan intuitif mengikuti tren terkini
-- **🔒 Keamanan Terjamin** - Implementasi standar keamanan terbaik dengan enkripsi end-to-end
-- **📱 Responsive** - Bekerja sempurna di semua perangkat, dari mobile hingga desktop
-- **🌍 Open Source** - Dikembangkan bersama komunitas dengan kontribusi dari seluruh dunia
-- **🔧 Mudah Dikustomisasi** - Fleksibel dan dapat disesuaikan dengan kebutuhan bisnis Anda
-
-### 💡 Fitur Unggulan
-
-Kami menyediakan berbagai fitur canggih yang membuat development menjadi lebih menyenangkan:
-
-- Real-time collaboration untuk tim development
-- Auto-deployment ke berbagai platform cloud
-- Built-in testing framework untuk quality assurance
-- Advanced analytics dan monitoring dashboard
-- API yang powerful dan well-documented
-- Plugin ecosystem yang kaya dan terus berkembang
-
----
+- **📚 Konten edukasi** - Menyediakan artikel dan sumber informatif tentang produksi Eco Enzyme dan manfaat lingkungannya.
+- **📢 Kegiatan Promosi** - Promosi acara dan kegiatan sosialisasi terkait Eco Enzyme untuk meningkatkan kesadaran masyarakat.
+- **🤝 Komunitas** - Memungkinkan penduduk Batam untuk mendaftar dan bergabung dengan komunitas Eco Enzyme untuk berpartisipasi aktif dalam inisiatif pengelolaan sampah
+- **🛒 Eco Enzyme Marketplacee** - Memfasilitasi transaksi jual beli produk Eco Enzyme antar komunitas dan bank sampah khusus warga Batam dengan sistem pembayaran COD.
+- **🎁 Tukarkan sampah menjadi hadiah** - Komunitas dapat menyetor sampah dan mendapatkan poin yang dapat ditukarkan dengan hadiah menarik.
+- **🤖 Sistem Pintar Klasifikasi Sampah** - AI bantu klasifikasi sampah, Agar pegguna mengehatahui sampah mana yang bisa jadi Eco Enzim.
 
 ## 🛠️ Teknologi yang Digunakan
 
 <div align="center">
 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge&logo=ai&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
