@@ -2,7 +2,7 @@
 
 # 🚀 PROJECT NAME
 
-![Hero Banner](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop)
+![Hero Banner](./images/hero-banner.jpg)
 
 ### ✨ Transforming Ideas Into Digital Reality
 
@@ -16,7 +16,7 @@
 
 ## 📖 Tentang Project
 
-<img align="right" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=350&fit=crop" width="400" alt="Coding Workspace"/>
+<img align="right" src="./images/coding-workspace.jpg" width="400" alt="Coding Workspace"/>
 
 **Project Name** adalah sebuah platform inovatif yang dirancang khusus untuk memudahkan developer dalam membangun aplikasi modern dengan cepat dan efisien. Kami fokus pada pengalaman pengguna yang luar biasa dengan performa tinggi.
 
@@ -85,12 +85,12 @@ npm run dev
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=500&fit=crop" alt="Dashboard" width="80%"/>
+  <img src="./images/screenshot-dashboard.jpg" alt="Dashboard" width="80%"/>
   <p><i>Dashboard - Antarmuka utama yang clean dan modern</i></p>
 </div>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=500&fit=crop" alt="Analytics" width="80%"/>
+  <img src="./images/screenshot-analytics.jpg" alt="Analytics" width="80%"/>
   <p><i>Analytics - Visualisasi data yang powerful dan real-time</i></p>
 </div>
 
@@ -105,74 +105,74 @@ npm run dev
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://i.pravatar.cc/150?img=12" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50;" alt="Developer 1"/>
+      <img src="./images/team/member1.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50;" alt="Developer 1"/>
       <br />
       <b>Ahmad Pratama</b>
       <br />
       <i>Lead Developer</i>
       <br />
-      <a href="https://github.com">
+      <a href="https://github.com/ahmadpratama">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com">
+      <a href="https://linkedin.com/in/ahmadpratama">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
       </a>
     </td>
     <td align="center" width="200">
-      <img src="https://i.pravatar.cc/150?img=45" width="150" height="150" style="border-radius: 50%; border: 5px solid #2196F3;" alt="Developer 2"/>
+      <img src="./images/team/member2.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #2196F3;" alt="Developer 2"/>
       <br />
       <b>Siti Nurhaliza</b>
       <br />
       <i>Frontend Engineer</i>
       <br />
-      <a href="https://github.com">
+      <a href="https://github.com/sitinurhaliza">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com">
+      <a href="https://linkedin.com/in/sitinurhaliza">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
       </a>
     </td>
     <td align="center" width="200">
-      <img src="https://i.pravatar.cc/150?img=33" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF9800;" alt="Developer 3"/>
+      <img src="./images/team/member3.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF9800;" alt="Developer 3"/>
       <br />
       <b>Budi Santoso</b>
       <br />
       <i>Backend Engineer</i>
       <br />
-      <a href="https://github.com">
+      <a href="https://github.com/budisantoso">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com">
+      <a href="https://linkedin.com/in/budisantoso">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://i.pravatar.cc/150?img=47" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
+      <img src="./images/team/member4.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
       <br />
       <b>Dewi Lestari</b>
       <br />
       <i>UI/UX Designer</i>
       <br />
-      <a href="https://github.com">
+      <a href="https://github.com/dewilestari">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com">
+      <a href="https://linkedin.com/in/dewilestari">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
       </a>
     </td>
     <td align="center" width="200">
-      <img src="https://i.pravatar.cc/150?img=68" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
+      <img src="./images/team/member5.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
       <br />
       <b>Rizki Firmansyah</b>
       <br />
       <i>DevOps Engineer</i>
       <br />
-      <a href="https://github.com">
+      <a href="https://github.com/rizkifirmansyah">
         <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com">
+      <a href="https://linkedin.com/in/rizkifirmansyah">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
       </a>
     </td>
