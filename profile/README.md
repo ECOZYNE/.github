@@ -85,7 +85,7 @@
       </a>
     </td>
     <td align="center" width="200">
-      <img src="./images/team/member2.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #2196F3;" alt="Developer 2"/>
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/justine.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #2196F3;" alt="Developer 2"/>
       <br />
       <b>Ivander Justine Saavero</b>
       <br />
@@ -99,7 +99,7 @@
       </a>
     </td>
     <td align="center" width="200">
-      <img src="./images/team/member3.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF9800;" alt="Developer 3"/>
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/fasha.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF9800;" alt="Developer 3"/>
       <br />
       <b>Fasha-Ar Rafly</b>
       <br />
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="./images/team/member4.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
+      <img src=".https://raw.githubusercontent.com/ECOZYNE/.github/main/images/adit.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
       <br />
       <b>Aditiya Arsandi Sulaeman</b>
       <br />
@@ -129,7 +129,7 @@
       </a>
     </td>
     <td align="center" width="200">
-      <img src="./images/team/member5.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
+      <img src=".https://raw.githubusercontent.com/ECOZYNE/.github/main/images/hardi.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
       <br />
       <b>Andi Hardiansya Permana</b>
       <br />
