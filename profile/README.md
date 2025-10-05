@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 Tentang Project
+## 📖 Tentang Ecozyne
 
 <img align="right" src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/coding-workspace.jpg" width="400" alt="Coding Workspace"/>
 
@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="./images/team/member1.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50;" alt="Developer 1"/>
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/nabil.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50;" alt="Developer 1"/>
       <br />
       <b>Muhammad Nabil Aditya Putera</b>
       <br />
@@ -165,7 +165,7 @@
 
 ### Made with ❤️ by Our Amazing Team
 
-**[Website](https://yourwebsite.com)** • **[Documentation](https://docs.yourwebsite.com)** • **[Blog](https://blog.yourwebsite.com)**
+**[Instagram](https://instagram.com/ecozyne.id)** • **[Email](mailto:ecozyne@gmail.com)**
 
 © 2025 Ecozyne. All rights reserved.
 
