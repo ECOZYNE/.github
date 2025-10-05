@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src=".https://raw.githubusercontent.com/ECOZYNE/.github/main/images/adit.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/adit.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #E91E63;" alt="Developer 4"/>
       <br />
       <b>Aditiya Arsandi Sulaeman</b>
       <br />
@@ -129,7 +129,7 @@
       </a>
     </td>
     <td align="center" width="200">
-      <img src=".https://raw.githubusercontent.com/ECOZYNE/.github/main/images/hardi.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/hardi.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #9C27B0;" alt="Developer 5"/>
       <br />
       <b>Andi Hardiansya Permana</b>
       <br />
